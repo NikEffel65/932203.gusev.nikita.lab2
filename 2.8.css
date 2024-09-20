@@ -1,0 +1,52 @@
+*{
+	font-family:Arial;
+	line-height:1.5;
+	margin:  0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+}
+
+.main{
+	display:table;
+	margin:  5px;
+	overflow:hidden;
+}
+
+.aside{
+	width: 200px;
+	display: table-cell;
+	background-color: aqua;
+}
+
+.upperLeftAside{
+    background-color: bisque;
+	height:85px;
+	padding-left:20%;
+	padding-top:5%;
+	padding-bottom:5%;
+}
+
+.lowerLeftAside{
+	margin-bottom:0px;
+	flex:1;
+	height: 100%;
+    background-color: aqua;
+	padding-left:20%;
+	padding-top:5%;
+	padding-bottom:5%;
+
+}
+
+.article{
+	margin-left:200px;
+	display: table-cell;
+	background-color: darkgray;
+}
+
+footer {
+	height:100px;
+	width:100%;
+	position:fixed;
+	bottom:0px;
+	left:0px;
+	background-color:limegreen;
+}

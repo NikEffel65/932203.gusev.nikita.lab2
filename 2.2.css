@@ -1,0 +1,41 @@
+*{
+	font-family:Arial;
+	line-height:1.5;
+	margin:  0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+}
+
+
+.leftSidebar{
+    background-color: #C8FC98;
+    float: left;
+    width: 25%;
+	margin:  5px 5px 5px 5px;
+	padding: 5px 5px 5px 5px;
+}
+
+.rightSidebar{
+    background-color: #FDE95E;
+    float: right;
+    width: 200px;
+	margin:  5px 5px 5px 5px;
+	padding: 5px 5px 5px 5px;
+}
+
+.main{
+    margin-left: 25%;
+	margin-right: 200px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	padding: 5px 5px 5px 5px;
+}
+
+header{
+	text-align:left;
+	height:100px;
+}
+
+.red_text_italic{
+ color:red;	
+ font-style:italic;
+}

@@ -1,0 +1,32 @@
+*{
+	font-family:Arial;
+	line-height:1.5;
+	margin:  0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+}
+
+
+.main{
+	margin-left: 31%;
+	margin-right: 31%;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	padding: 5px 5px 5px 5px;
+	padding: 0px 0px 0px 0px;
+	font-size:0.8em;
+}
+
+.firstBlock{
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+
+.secondBlock{
+	border:10px solid blue;
+	padding: 7% 7% 7% 7%;
+}
+
+.red_text_italic{
+ color:red;	
+ font-style:italic;
+}

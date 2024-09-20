@@ -1,0 +1,21 @@
+*{
+	font-family:Arial;
+	line-height:1.5;
+	margin:  0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+}
+
+.floatBox{
+	width: 200px;
+	height:100px;
+	display:inline-block;
+	float:left;
+	background-color: aqua;
+	margin:10px;
+}
+
+.clearedBox{
+    background-color: bisque;
+	clear:both;
+}
+

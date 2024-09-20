@@ -1,0 +1,34 @@
+*{
+	font-family:Arial;
+	line-height:1.5;
+	margin:  0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+}
+
+
+.sidebar{
+    background-color: #C8FC98;
+    float: left;
+    width: 200px;
+	margin:  5px 5px 5px 5px;
+	padding: 5px 5px 5px 5px;
+}
+.main{
+    height: 200px;
+    margin-left: 200px;
+	margin-right: 5px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	padding: 5px 5px 5px 5px;
+}
+
+
+header{
+	text-align:left;
+	height:100px;
+}
+
+.red_text_italic{
+ color:red;	
+ font-style:italic;
+}

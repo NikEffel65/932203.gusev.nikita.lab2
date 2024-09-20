@@ -1,0 +1,19 @@
+*{
+	font-family:Arial;
+	line-height:1.5;
+	margin:  0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+}
+
+.inlineBlock{
+	width: 200px;
+	height:100px;
+	display:inline-block;
+	background-color: aqua;
+	margin:10px;
+}
+
+.lastDiv{
+    background-color: bisque;
+}
+
